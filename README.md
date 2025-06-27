@@ -1,2 +1,2 @@
-# text-summarizer
-Summarize long texts using Hugging Face BART model
+## Usage
+Install the dependencies:
